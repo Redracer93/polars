@@ -287,7 +287,7 @@ polars-time = { version = "0.25.1", path = "./polars-time", default-features = f
 [dev-dependencies]
 ahash = "0.7"
 criterion = "0.3"
-rand = "0.8"
+rand = "0.9"
 
 [build-dependencies]
 version_check = "0.9.4"
